@@ -48,11 +48,19 @@ Los 3 modelos coincidieron en las mismas variables más importantes:
 
 Recomendaciones estratégicas
 
-Programa de bienvenida para clientes nuevos — acompañamiento en los primeros 3 meses
- incentivar contratos anuales con descuentos y beneficios exclusivos
- Mejorar experiencia de Fibra Óptica — investigar la brecha entre expectativas y servicio real
- Promover pagos automáticos en lugar de cheque electrónico
- Ofrecer seguridad online y soporte técnico como prueba gratuita
+*Programa de bienvenida para clientes nuevos
+
+*Acompañamiento en los primeros 3 meses
+
+*incentivar contratos anuales con descuentos y beneficios exclusivos
+
+*Mejorar experiencia de Fibra Óptica
+
+*Investigar la brecha entre expectativas y servicio real
+
+ *Promover pagos automáticos en lugar de cheque electrónico
+ 
+ *Ofrecer seguridad online y soporte técnico como prueba gratuita
 
 
 
