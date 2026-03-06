@@ -6,6 +6,7 @@ El proyecto es la Parte 2 de un desafío más amplio la Parte I consistió en el
  
 
 Pipeline del proyecto
+
 1️⃣ Preparación de datos
 
 Carga del CSV tratado en la Parte 1
@@ -38,11 +39,11 @@ La Regresión Logística fue el mejor modelo en todas las métricas.
 Principales factores de cancelación
 Los 3 modelos coincidieron en las mismas variables más importantes:
 
- customer.tenure — Los clientes nuevos cancelan mucho más. Los primeros meses son críticos.
- Fiber optic — Clientes con fibra óptica tienen mayor tasa de cancelación.
- Contrato mensual — Sin compromiso de permanencia, es fácil cancelar.
- Cheque electrónico — Este método de pago se asocia con más cancelaciones.
- Cargos mensuales altos — A mayor precio, mayor riesgo de cancelación.
+ customer.tenure:Los clientes nuevos cancelan mucho más. Los primeros meses son críticos.
+ Fiber optic: Clientes con fibra óptica tienen mayor tasa de cancelación.
+ Contrato mensual:Sin compromiso de permanencia, es fácil cancelar.
+ Cheque electrónico: Este método de pago se asocia con más cancelaciones.
+ Cargos mensuales altos: A mayor precio, mayor riesgo de cancelación.
 
 
 Recomendaciones estratégicas
