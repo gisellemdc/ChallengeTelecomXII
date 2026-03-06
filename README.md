@@ -2,14 +2,8 @@ Sobre el proyecto
 Este es mi primer pipeline completo de Machine Learning. El objetivo fue construir modelos predictivos capaces de identificar clientes en riesgo de cancelación en Telecom X, una empresa de telecomunicaciones.
 El proyecto es la Parte 2 de un desafío más amplio la Parte I consistió en el análisis exploratorio (EDA) y limpieza de los datos.
 
-🗂️ Estructura del proyecto
-├── telecom_x_churn.ipynb       # Notebook principal con todo el código
-├── datos_tratados.csv          # Archivo CSV limpio de la Parte 1
-└── README.md                   # Este archivo
 
  
-Tecnologías utilizadas
-LibreríaUsopandasManejo y transformación de datosnumpyOperaciones matemáticasmatplotlibVisualización de gráficasseabornVisualización avanzada (heatmaps, boxplots)scikit-learnModelos de Machine Learning y métricas
 
 Pipeline del proyecto
 1️⃣ Preparación de datos
@@ -37,9 +31,6 @@ Evaluación con métricas: Accuracy, Precisión, Recall, F1-Score y Matriz de Co
 Análisis de importancia de variables por modelo
 Conclusión estratégica con recomendaciones de retención
 
-
-Modelos entrenados
-ModeloNormalizaciónAccuracyPrecisiónRecallF1-ScoreRegresión Logística 🥇✅ Sí80.62%66.67%53.62%59.44%KNN (k=5)✅ Sí75.73%54.44%50.94%52.63%Árbol de Decisión❌ No79.13%65.99%43.70%52.58%
 
 La Regresión Logística fue el mejor modelo en todas las métricas.
 
